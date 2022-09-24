@@ -1,3 +1,4 @@
+![Banner](bilal-ahad-banner.jpg)
 
 # Hey there! I am Engr. Bilal Ahad 👋
 ## I am a Frontend Web Developer :computer:
